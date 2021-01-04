@@ -1,7 +1,7 @@
 ## Sample Project `ReactorKit`
 
 ### 목표
-- *UI Test*
+- *Testablity*
 - *ReactorKit* 템플릿
 
 ### Dependency
